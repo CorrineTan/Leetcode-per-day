@@ -1,2 +1,2 @@
 # Leetcode-per-day
-Everyday Leetcode (Python and Java)
+Everyday Go through one Leetcode Question (Python and Java) 
